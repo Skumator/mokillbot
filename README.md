@@ -1,0 +1,2 @@
+# mokillbot
+mokillbot for Albion
